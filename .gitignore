@@ -1,0 +1,12 @@
+/.idea
+*.iml
+*.jar
+.idea
+src/test/
+/src/test/
+src/test
+/src/test
+*.txt
+src/main/resources/
+target/
+*~
